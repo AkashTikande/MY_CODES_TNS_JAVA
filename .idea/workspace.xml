@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="This is trial for repository upload test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MyJava.executor": "Run",
+    "Application.Sum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720508755517</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="This is trial for repository upload test">
+      <option name="closed" value="true" />
+      <created>1720543405068</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720543405068</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TNS JAVA DAY 1 PROJECT" />
-    <option name="LAST_COMMIT_MESSAGE" value="TNS JAVA DAY 1 PROJECT" />
+    <MESSAGE value="This is trial for repository upload test" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is trial for repository upload test" />
   </component>
 </project>
