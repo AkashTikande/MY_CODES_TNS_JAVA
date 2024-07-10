@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class JavaBasics {
     public static void main(String[] args) {
         System.out.println("Start JavaBasics");
@@ -40,6 +42,35 @@ public class JavaBasics {
 
         System.out.println("Maximum renge of Long  is : "+ longMax);
         System.out.println("Minimum renge of Long  is : "+ longMin);
+
+        float f = 22.22f;
+        double d =f;
+        System.out.println(d);
+
+        char ch ='A';
+        int i3 =ch;
+        System.out.println(i3);
+
+        char var1 ='\u007A';
+        int i4 = var1;
+        System.out.println(i4);
+
+        //narrowing //expliciting type casting;
+
+        double f1 =10.52d;
+        long l = (long) f1;
+        System.out.println(l);
+
+        long l1 = 9123372036854775061l;  // 19 digits for long
+        int i2 =(int)11;
+        System.out.println(i2);
+
+
+        byte b1 =90;
+        char ch2 = (char) b1;
+        System.out.println(ch2);
+
+        //
 
 
 
