@@ -1,13 +1,16 @@
 public class JavaBasics {
     public static void main(String[] args) {
         System.out.println("Start JavaBasics");
-        int $num =20;
+        int num =20;
+
+
         String studentName = "Student";
         System.out.println("My Class Student" + studentName);
         int value1 = 19/2;
         float value2 = 10.50f;
         double value3 = 30d/2d;
-        float value4 = 150/3;
+        float value4 = 75;
+        System.out.println(num*3);
         System.out.println("Value1:"+ value1);
         System.out.println("Value2:"+ value2);
         System.out.println("Value3:"+ value3);
@@ -56,4 +59,4 @@ public class JavaBasics {
 // char 2 byte
 // boolean - True False = 1 bit memory allocation
 
-// string Concatation
+// string Concat_Nation.

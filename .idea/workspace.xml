@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="This is trial for repository upload test">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="This is 3rd day of TNS JAVA Technical basics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720543823363</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="This is 3rd day of TNS JAVA Technical basics">
+      <option name="closed" value="true" />
+      <created>1720595727128</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720595727128</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TNS JAVA DAY 1 PROJECT" />
     <MESSAGE value="This is trial for repository upload test" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is trial for repository upload test" />
+    <MESSAGE value="This is 3rd day of TNS JAVA Technical basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is 3rd day of TNS JAVA Technical basics" />
   </component>
 </project>
