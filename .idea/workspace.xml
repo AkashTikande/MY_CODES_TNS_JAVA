@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="This is 3rd day of TNS JAVA Technical basics">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="TNS JAVA DAY 5 JavaBasics Series" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,15 +49,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.JavaBasic_TaxCalculation.executor": "Run",
     "Application.JavaBasics.executor": "Run",
+    "Application.JavaBasics2.executor": "Debug",
+    "Application.JavaBasics_If_Else_Block.executor": "Debug",
+    "Application.JavaBasics_Loops.executor": "Run",
+    "Application.JavaBasics_Loops_Do_While_Loop.executor": "Run",
+    "Application.JavaBasics_Loops_Nested_For_Loop.executor": "Run",
+    "Application.JavaBasics_Loops_While_Loop.executor": "Run",
+    "Application.JavaBasics_Nested_If_Else.executor": "Debug",
     "Application.MyJava.executor": "Run",
     "Application.Sum.executor": "Run",
+    "Application.TnsJava_12_7_24.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/coading club/java codes/Mydell/src/Sum.java",
+    "last_opened_file_path": "D:/coading club/TNS java codes/TNS_JAVA",
     "onboarding.tips.debug.path": "D:/coading club/TNS java codes/TNS_JAVA/src/Main.java",
     "settings.editor.selected.configurable": "project.scopes"
   }
@@ -146,7 +153,31 @@
       <option name="project" value="LOCAL" />
       <updated>1720596013028</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="This is 3rd day of TNS JAVA Technical basics">
+      <option name="closed" value="true" />
+      <created>1720596868807</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720596868807</updated>
+    </task>
+    <task id="LOCAL-00011" summary="This is 4TH day of TNS JAVA Technical basics">
+      <option name="closed" value="true" />
+      <created>1720685154728</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720685154728</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TNS JAVA DAY 5 JavaBasics Series">
+      <option name="closed" value="true" />
+      <created>1720771142262</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720771142262</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +195,8 @@
     <MESSAGE value="TNS JAVA DAY 1 PROJECT" />
     <MESSAGE value="This is trial for repository upload test" />
     <MESSAGE value="This is 3rd day of TNS JAVA Technical basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is 3rd day of TNS JAVA Technical basics" />
+    <MESSAGE value="This is 4TH day of TNS JAVA Technical basics" />
+    <MESSAGE value="TNS JAVA DAY 5 JavaBasics Series" />
+    <option name="LAST_COMMIT_MESSAGE" value="TNS JAVA DAY 5 JavaBasics Series" />
   </component>
 </project>
