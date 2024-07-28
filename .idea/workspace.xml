@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="This is 3rd day of TNS JAVA Technical basics">
+    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="This is 3rd day of TNS JAVA Technical basic">
+      <change afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TnsIndex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,16 +58,22 @@
     "Application.JavaBasics.executor": "Run",
     "Application.MyJava.executor": "Run",
     "Application.Sum.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/coading club/java codes/Mydell/src/Sum.java",
+    "last_opened_file_path": "D:/coading club/TNS java codes/TNS_JAVA/src",
     "onboarding.tips.debug.path": "D:/coading club/TNS java codes/TNS_JAVA/src/Main.java",
     "settings.editor.selected.configurable": "project.scopes"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coading club\TNS java codes\TNS_JAVA\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -146,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720596013028</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="This is 3rd day of TNS JAVA Technical basics">
+      <option name="closed" value="true" />
+      <created>1722092019828</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722092019828</updated>
+    </task>
+    <task id="LOCAL-00011" summary="This is 3rd day of TNS JAVA Technical basics">
+      <option name="closed" value="true" />
+      <created>1722092053815</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722092053815</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +188,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TNS JAVA DAY 1 PROJECT" />
     <MESSAGE value="This is trial for repository upload test" />
+    <MESSAGE value="Tns Day 1 HTML and CSS" />
     <MESSAGE value="This is 3rd day of TNS JAVA Technical basics" />
     <option name="LAST_COMMIT_MESSAGE" value="This is 3rd day of TNS JAVA Technical basics" />
   </component>
