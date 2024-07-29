@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="This is 3rd day of TNS JAVA Technical basic">
-      <change afterPath="$PROJECT_DIR$/src/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TnsIndex.html" afterDir="false" />
+    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="TNS JAVA DAY 2 Technical Assesment.">
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics_PersonDemoDriver.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CarSimulation.executor": "Debug",
     "Application.JavaBasics.executor": "Run",
     "Application.MyJava.executor": "Run",
     "Application.Sum.executor": "Run",
@@ -72,6 +72,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\coading club\TNS java codes\TNS_JAVA\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -171,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722092053815</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="TNS JAVA DAY 2 Technical Assesment.">
+      <option name="closed" value="true" />
+      <created>1722185698128</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722185698128</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +201,10 @@
     <MESSAGE value="This is trial for repository upload test" />
     <MESSAGE value="Tns Day 1 HTML and CSS" />
     <MESSAGE value="This is 3rd day of TNS JAVA Technical basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is 3rd day of TNS JAVA Technical basics" />
+    <MESSAGE value="TNS JAVA DAY 2 Technical Assesment." />
+    <option name="LAST_COMMIT_MESSAGE" value="TNS JAVA DAY 2 Technical Assesment." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TNS_JAVA$CarSimulation.ic" NAME="CarSimulation Coverage Results" MODIFIED="1722188798152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
