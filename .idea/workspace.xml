@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="TNS JAVA DAY 2 Technical Assesment.">
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+    <list default="true" id="fd825666-6d12-4ecf-a84b-dd4066aad95c" name="Changes" comment="TNS JAVA DAY 1 Technical Assesment.">
+      <change afterPath="$PROJECT_DIR$/.idea/JetClient/state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyJava/CarManufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TNSJAVASCRIPT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TNSJAVASCRIPT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasics_PersonDemoDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics_Loops_Nested_For_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics_Loops_Nested_For_Loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="Class" />
       </list>
@@ -39,8 +52,14 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/TnsIndex.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -56,24 +75,36 @@
   "keyToString": {
     "Application.CarSimulation.executor": "Debug",
     "Application.JavaBasics.executor": "Run",
+    "Application.JavaBasics_Customer.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyClass.executor": "Run",
     "Application.MyJava.executor": "Run",
     "Application.Sum.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.google.cloudcode.ide_session_index": "20240803_0008",
+    "dart.analysis.tool.window.visible": "false",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/coading club/TNS java codes/TNS_JAVA/src",
+    "last_opened_file_path": "D:/coading club/JAVA CLOUD CODES",
     "onboarding.tips.debug.path": "D:/coading club/TNS java codes/TNS_JAVA/src/Main.java",
-    "settings.editor.selected.configurable": "project.scopes"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "google.ai.companion.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coading club\TNS java codes\TNS_JAVA\src\MyJava" />
       <recent name="D:\coading club\TNS java codes\TNS_JAVA\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MyJava" />
       <recent name="" />
     </key>
   </component>
@@ -182,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722185698128</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="TNS JAVA DAY 1 Technical Assesment.">
+      <option name="closed" value="true" />
+      <created>1722235376675</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722235376675</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +241,8 @@
     <MESSAGE value="Tns Day 1 HTML and CSS" />
     <MESSAGE value="This is 3rd day of TNS JAVA Technical basics" />
     <MESSAGE value="TNS JAVA DAY 2 Technical Assesment." />
-    <option name="LAST_COMMIT_MESSAGE" value="TNS JAVA DAY 2 Technical Assesment." />
+    <MESSAGE value="TNS JAVA DAY 1 Technical Assesment." />
+    <option name="LAST_COMMIT_MESSAGE" value="TNS JAVA DAY 1 Technical Assesment." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TNS_JAVA$CarSimulation.ic" NAME="CarSimulation Coverage Results" MODIFIED="1722188798152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
